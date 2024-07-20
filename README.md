@@ -11,7 +11,7 @@ Instructions for setting up the project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Rahmathullaaiman/aventus.git
+git clone https://github.com/Rahmathullaaiman/AventusNodejs.git
 
 # Navigate to the project directory
 cd your-project
